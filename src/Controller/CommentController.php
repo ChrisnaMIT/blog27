@@ -9,7 +9,7 @@ use Core\Attributes\Route;
 use Core\Controller\Controller;
 use Core\Http\Response;
 
-
+//test 12345
 #[DefaultEntity(entityName: Comment::class)]
 class CommentController extends Controller
 {
